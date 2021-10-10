@@ -15,7 +15,7 @@ git clone [url]
 ```
 git init
 git remote add origin [url]
-git pull origin master
+git pull origin main
 ## 加入需要上传的代码
 git add .
 git commit -m "First Upload"
