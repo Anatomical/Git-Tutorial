@@ -77,9 +77,9 @@ remote: Support for password authentication was removed on August 13, 2021. Plea
 以下是我的token ，到时作为密码粘贴即可
 
 ```
-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
+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
 ```
-
+【定期会失效，请不要慌张，可参考https://blog.csdn.net/u013977285/article/details/79726354】
 📢注意Username是输入的是github上的邮箱账而非ID账号
 
 参考博客 https://www.cnblogs.com/xieqijiang/p/12420276.html
