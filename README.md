@@ -15,12 +15,12 @@ git clone [url]
 ```
 git init
 git remote add origin [url]
-git pull origin main
+git pull origin main/master
 ## 加入需要上传的代码
 git add .
 git commit -m "First Upload"
-## 如果是第一次上传就用下面代码，如果不是就用  git push origin main
-git push -u origin main
+## 如果是第一次上传就用下面代码，如果不是就用  git push origin main/master
+git push -u origin main/master
 ```
 
 📢上传时要注意自己上传的目标分支，要注意区分main和master
